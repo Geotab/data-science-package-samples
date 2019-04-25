@@ -1,0 +1,11 @@
+VehicleNo,DateofRepair,TotalCost,Insurance,FinalPayment,Latitude of Location,Longitude of Location,LocationName
+SerialNo1,12-31-2018,$560,$480,$80,43.419177,-79.716055,SE Auto Sales & Service
+SerialNo2,12-13-2018,"$1,350",$250,"$1,100",43.434135,-79.703653,"New Millenium Tire & Auto Centre, Oakville"
+SerialNo3,12-01-2018,$45,$45,$0,43.436562,-79.699516,Ontario Auto Salvage
+SerialNo4,12-12-2018,$950,$950,$0,43.442824,-79.699035,JNB Auto Center
+SerialNo5,12-16-2018,"$2,550","$2,300",$250,43.448638,-79.699433,Oakville Auto Centre
+SerialNo6,12-28-2018,$75,$50,$25,43.419177,-79.716055,SE Auto Sales & Service
+SerialNo7,12-05-2018,$35,$0,$0,43.434135,-79.703653,"New Millenium Tire & Auto Centre, Oakville"
+SerialNo7,12-30-2018,"$2,000","$1,450",$550,43.436562,-79.699516,Ontario Auto Salvage
+SerialNo7,12-31-2018,$0,$0,$0,43.436562,-79.699516,Ontario Auto Salvage
+SerialNo8,12-02-2018,$45,$0,$0,43.434135,-79.703653,"New Millenium Tire & Auto Centre, Oakville"
